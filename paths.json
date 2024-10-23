@@ -2,6 +2,9 @@
   "mappings": [
     "/content/aem-boilerplate/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/aem-boilerplate/metadata:/metadata.json",
+    "/content/aem-edge-wysiwyg/:/",
+    "/content/aem-edge-wysiwyg/configuration:/.helix/config.json",
+    "/content/aem-edge-wysiwyg/metadata:/metadata.json"
   ]
 }
