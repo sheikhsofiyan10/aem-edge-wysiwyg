@@ -191,20 +191,20 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "image",
+        "name": "background_image",
         "label": "Background Image",
         "multi": false
       },
       {
         "component": "text",
         "valueType": "string",
-        "name": "pretitle",
+        "name": "foreground_pretitle",
         "label": "Pre Title",
         "value": ""
       },
       {
         "component": "select",
-        "name": "titleType",
+        "name": "foreground_titleType",
         "label": "Title Type",
         "options": [
           {
@@ -236,13 +236,13 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "title",
+        "name": "foreground_title",
         "label": "Title",
         "value": ""
       },
       {
         "component": "richtext",
-        "name": "description",
+        "name": "foreground_description",
         "value": "",
         "label": "Description",
         "valueType": "richtext"
