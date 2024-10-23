@@ -1,8 +1,5 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json",
     "/content/aem-site-with-edge/:/",
     "/content/aem-site-with-edge/configuration:/.helix/config.json",
     "/content/aem-site-with-edge/metadata:/metadata.json"
